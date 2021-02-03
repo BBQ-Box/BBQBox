@@ -85,7 +85,7 @@ header {
     display: flex;
     width: auto;
     height: 110vh;
-    background-image: url("./بطاطس\ لندن.jpg");
+    background-image: url("./ذره4.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -143,6 +143,11 @@ header img {
     margin-top: 10rem;
     background-color: rgb(244, 114, 38);
     text-align: center;
+}
+@media only screen and (max-width:768px) {
+    .nav {
+       flex-direction: column;
+    }
 }
 .nav a {
     font-size: 1.2rem;
