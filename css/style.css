@@ -85,11 +85,7 @@ header {
     display: flex;
     width: auto;
     height: 110vh;
-    background-image: url("./ذره4.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+    background-color: white;
     text-align: center;
 
 }
