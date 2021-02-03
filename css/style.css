@@ -31,7 +31,7 @@ body {
 @media only screen and (max-width:768px) {
     .flex {
         flex-direction: column;
-        height: 100vh;
+        height: 170vh;
         justify-content: flex-start;
     }
 }
@@ -117,7 +117,7 @@ header img {
 
 @media only screen and (max-width:768px) {
     .logo {
-       width: 90%;
+       width: 65%;
        padding: 1em;
     }
     header img {
